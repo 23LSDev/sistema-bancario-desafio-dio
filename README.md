@@ -1,6 +1,6 @@
 <h1>
     <a href="https://docs.python.org/3/py-modindex.html">
-     <img align="center" width="40px" src="https://banner2.cleanpng.com/20180412/kye/avffc0w7m.webp"></a>
+     <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png"></a>
     <span> Sistema bancario simples desenvolvido em Desafio DIO</span>
 </h1>
 
